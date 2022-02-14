@@ -1,2 +1,2 @@
 # SentimentML
-Transfer learning, based on a google encoder
+Sentiment analysis, transfer learning incorporating the Google's Universal Sentence Encoder.
